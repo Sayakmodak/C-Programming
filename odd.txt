@@ -1,0 +1,11 @@
+Odd numbers:1
+Odd numbers:3
+Odd numbers:5
+Odd numbers:7
+Odd numbers:9
+
+Even numbers:2
+Even numbers:4
+Even numbers:6
+Even numbers:8
+Even numbers:10

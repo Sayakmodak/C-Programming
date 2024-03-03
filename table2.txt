@@ -1,0 +1,11 @@
+Multiplication Table of 5 is:
+5 x 1= 5Multiplication Table of 5 is:
+5 x 2= 10Multiplication Table of 5 is:
+5 x 3= 15Multiplication Table of 5 is:
+5 x 4= 20Multiplication Table of 5 is:
+5 x 5= 25Multiplication Table of 5 is:
+5 x 6= 30Multiplication Table of 5 is:
+5 x 7= 35Multiplication Table of 5 is:
+5 x 8= 40Multiplication Table of 5 is:
+5 x 9= 45Multiplication Table of 5 is:
+5 x 10= 50
